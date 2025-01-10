@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lost-letters-app/static/css/main.76525f7f.css",
-    "main.js": "/lost-letters-app/static/js/main.67868ad9.js",
-    "static/media/its-leviosa.gif": "/lost-letters-app/static/media/its-leviosa.6f52ba8698fad608f52a.gif",
-    "static/media/history-book.png": "/lost-letters-app/static/media/history-book.7aa71a1a3ecaf3c04c9d.png",
-    "index.html": "/lost-letters-app/index.html",
-    "main.76525f7f.css.map": "/lost-letters-app/static/css/main.76525f7f.css.map",
-    "main.67868ad9.js.map": "/lost-letters-app/static/js/main.67868ad9.js.map"
+    "main.css": "/static/css/main.76525f7f.css",
+    "main.js": "/static/js/main.8b62ffbc.js",
+    "static/media/its-leviosa.gif": "/static/media/its-leviosa.6f52ba8698fad608f52a.gif",
+    "static/media/history-book.png": "/static/media/history-book.7aa71a1a3ecaf3c04c9d.png",
+    "index.html": "/index.html",
+    "main.76525f7f.css.map": "/static/css/main.76525f7f.css.map",
+    "main.8b62ffbc.js.map": "/static/js/main.8b62ffbc.js.map"
   },
   "entrypoints": [
     "static/css/main.76525f7f.css",
-    "static/js/main.67868ad9.js"
+    "static/js/main.8b62ffbc.js"
   ]
 }
