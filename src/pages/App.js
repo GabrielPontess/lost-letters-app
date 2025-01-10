@@ -15,11 +15,11 @@ function App() {
               <Tipography weight='800' size='5.5vh'> CARTAS PERDIDAS!</Tipography>
             </Tipography>
             <Tipography weight='900' size='5vh'>THE LOST LETTERS</Tipography>
-            <img className='img-book' src={historyBook} height={80} width={80} />
+            <img className='img-book' src={historyBook} alt='history-book-image' height={80} width={80} />
 
             <Tipography weight='lighter' size='4vh'>Uma Dose de Magia na Sua Caixa de Entrada!</Tipography>
           </div>
-          <img className='leviosa-gif' src={leviosaGif}/>
+          <img className='leviosa-gif' src={leviosaGif} alt='hermione-gif'/>
 
           <Tipography weight='normal' size='2.5vh'>
           Deixe seu e-mail abaixo e receba as Cartas Perdidas diretamente na sua caixa de entrada.
@@ -37,7 +37,7 @@ function App() {
             Todo o conteúdo é feito com respeito e admiração pela obra original, sem intenção de infringir direitos.
           </Tipography>     
           <a href='https://github.com/GabrielPontess/lost-letters-app'>
-            <img src={githubLogo} height={30} />
+            <img src={githubLogo} height={30} alt='github-logo'/>
           </a>
           <Tipography weight='normal' size='3vh' >
             Enfeitiçado pelo bruxo: <br/>       
