@@ -37,7 +37,7 @@ function App() {
             outras entidades detentoras dos direitos autorais e de marca registrada de Harry Potter.
             Todo o conteúdo é feito com respeito e admiração pela obra original, sem intenção de infringir direitos.
           </Tipography>     
-          <a href='https://github.com/GabrielPontess/'>
+          <a href='https://github.com/GabrielPontess/lost-letters-app'>
             <img src={githubLogo} height={40} />
           </a>
           <Tipography weight='normal' size='2.5vh' >
