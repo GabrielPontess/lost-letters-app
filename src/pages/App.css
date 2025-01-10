@@ -1,0 +1,83 @@
+.App {
+  background-color: #FFFFFF;
+  color: #0F0F0F;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 2vh;
+
+  text-align: center;
+  font-size: calc(15px + 2vmin);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Container{
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  gap: 3vh;
+}
+
+.Container-Header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-group{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 0px 50px;
+}
+
+.input-group input{
+  margin: 0;
+  height: 20px;
+  width: 60%;
+  font-weight: 600;
+  font-family: sans-serif;
+  padding: 5px;
+  border: #0F0F0F 1px solid;
+}
+
+
+.input-group button{
+  margin: 0;
+  height: 32px;
+  width: 30%;
+  padding: 5px;
+  border: #0F0F0F 1px solid;
+  color: #FFFFFF;
+  background-color: #0F0F0F;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.input-group button:hover{
+  cursor: pointer;
+}
+
+.img-book{
+  margin: 0;
+}
+
+.leviosa-gif{
+  height: 55vh;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+*:focus {
+  outline: none;
+}
