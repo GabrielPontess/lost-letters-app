@@ -1,5 +1,6 @@
 {
   "name": "lost-letters-app",
+  "homepage": "lost-letters-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
